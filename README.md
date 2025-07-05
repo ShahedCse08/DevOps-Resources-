@@ -1,0 +1,1 @@
+This git repository has been created for containing all the DevOps resources provided by Ostad. 
